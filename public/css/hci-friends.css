@@ -1,4 +1,5 @@
 /* applies to anything of class "example-class-selector" */
+
 .example-class-selector {
 	margin-top: 2em;
 }
@@ -12,3 +13,9 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+.img-responsive {
+ 	max-width: 200px;
+ }
+
+ 
